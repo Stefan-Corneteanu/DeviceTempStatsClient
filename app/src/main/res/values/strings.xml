@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DeviceTempStatsClient</string>
+    <string name="cpu_temperature">CPU Temperature:</string>
+    <string name="gpu_temperature">GPU Temperature:</string>
+    <string name="ambient_temperature">Ambient Temperature:</string>
+    <string name="average_cpu_temperature">Average CPU Temperature:</string>
+    <string name="average_gpu_temperature">Average GPU Temperature:</string>
+    <string name="average_ambiental_temperature">Average Ambiental Temperature:</string>
+    <string name="maximum_cpu_temperature">Maximum CPU Temperature:</string>
+    <string name="maximum_gpu_temperature">Maximum GPU Temperature:</string>
+    <string name="maximum_ambiental_temperature">Maximum Ambiental Temperature:</string>
+</resources>
